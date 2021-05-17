@@ -1,90 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,500,400,600,700,800');
 @import url(https://fonts.googleapis.com/css?family=Sanchez:400italic,400);
-@import url('normalize.css');
-
-
-/*====================================================
-  * Template:   Denteur
-  * Version:    1.0
-  * Author:     QuickDev
-  * Create :    18 September 2019
-====================================================*/
-
-/*==================================================*/
-             /* [Table of contents] */
-/*==================================================*/
 
 /*	
-
-     1. RESET	
     2. TYPOGRAPHY
     3. SPACE AND ALIGMENT
-    4. PRELOADER
     5. BUTTONS
     6. HEADER
-    7. FOOTER
     8. PAGES STYLES
-    9. ABOUT US
-    10. ABOUT US  ALT
-    11. SERVICES
-    12. 404 ERROR PAGE
-    13. TEAM
-    14. DOCTOR SINGLE
-    15. FAQ
-    16. BLOG PREVIEW
-    17. BLOG GRID
-    18. BLOG SIDEBAR
-    19. BLOG CONTENT
-    20. BLOG SINGLE
-    21. DEPARTMENTS
     22. CONTACT US
-    23. CONTACT US ALT
-    24. PRICING TABLE
-    25. TESTIMONIALS PARALLAX
-    26. MAGNIFIC POPUP
-    27. PROJECT GRID 2
-    28. YOUTUBE POPUP
-    29. MODAL POPUP
-    30. PULSE BUTTON EFFECTS
     31. SCROLLING TOP
-    32. SLIDER
-    33. HOME PAGE ONE
-    34. HOME PAGE TWO
-    35. HOME PAGE THREE	
 */ 
-
-/*====================================================
-    1. RESET. 
-  ====================================================*/
-
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
 
 body{
     overflow-x: hidden;
@@ -331,7 +256,7 @@ header .container{
     8. PAGES STYLES.
   ====================================================*/
 .sections{
-    background-image: url("../img/images/pages-bg.jpg");
+    background-image: url("../img/images/denteur.jpg");
     height: 500px; 
     background-position: center;
     background-repeat: no-repeat;
