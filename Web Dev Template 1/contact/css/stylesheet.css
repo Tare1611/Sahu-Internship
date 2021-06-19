@@ -2,13 +2,13 @@
 @import url(https://fonts.googleapis.com/css?family=Sanchez:400italic,400);
 
 /*	
-    2. TYPOGRAPHY
-    3. SPACE AND ALIGMENT
-    5. BUTTONS
-    6. HEADER
-    8. PAGES STYLES
-    22. CONTACT US
-    31. SCROLLING TOP
+    1. TYPOGRAPHY
+    2. SPACE AND ALIGMENT
+    3. BUTTONS
+    4. HEADER
+    5. PAGES STYLES
+    6. CONTACT US
+    7. SCROLLING TOP
 */ 
 
 body{
@@ -24,7 +24,7 @@ html {
 }
 
 /*====================================================
-    2. TYPOGRAPHY. 
+    1. TYPOGRAPHY. 
   ====================================================*/
 h1, h2, h3, h4, h5, h6, p, ul,ol{
     margin-top: 0;
@@ -96,7 +96,7 @@ a:hover {
 }
 
 /*====================================================
-    3. SPACE AND ALIGMENT. 
+    2. SPACE AND ALIGMENT. 
   ====================================================*/
 .container, .container-fluid{
     margin: 3rem auto 3rem auto;
@@ -112,7 +112,7 @@ section{
 }
 
 /*====================================================
-    5. BUTTONS.
+    3. BUTTONS.
   ====================================================*/
 .btn {
   display: inline-block;
@@ -174,7 +174,7 @@ section{
 }
     
 /*====================================================
-    6. HEADER.
+    4. HEADER.
   ====================================================*/
 .top-header{
     background-color: #556877;
@@ -253,7 +253,7 @@ header .container{
 
 
 /*====================================================
-    8. PAGES STYLES.
+    5. PAGES STYLES.
   ====================================================*/
 .sections{
     background-image: url("../img/images/denteur.jpg");
@@ -360,7 +360,7 @@ header .container{
 
 
 /*====================================================
-    22. CONTACT US.
+    6. CONTACT US.
   ====================================================*/
 .contact-info{
     padding-right: 1rem;
@@ -439,7 +439,7 @@ header .container{
 
 
 /*====================================================
-    31. SCROLLING TOP.
+    7. SCROLLING TOP.
   ====================================================*/
 @media only screen and (min-width: 1024px) {
   main p {
